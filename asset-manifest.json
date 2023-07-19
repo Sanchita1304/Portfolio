@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.16d5a01f.css",
+    "main.js": "/Portfolio/static/js/main.eb09afdf.js",
+    "static/media/heart-disease.png": "/Portfolio/static/media/heart-disease.5c11fbc3a1e2cf7de19f.png",
+    "static/media/travel.png": "/Portfolio/static/media/travel.c4c344918fd6e3a64c8c.png",
+    "static/media/my.jpeg": "/Portfolio/static/media/my.e9ac53e129c5d99ea355.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.16d5a01f.css.map": "/Portfolio/static/css/main.16d5a01f.css.map",
+    "main.eb09afdf.js.map": "/Portfolio/static/js/main.eb09afdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d5a01f.css",
+    "static/js/main.eb09afdf.js"
+  ]
+}
