@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+.contact-container{
+    width: 100%;
+    position: absolute;
+    top: 17%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.hire{
+    color: white;
+    margin-right: 85%;
+    margin-top: -6%;
+}
+.inputbox{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 25%;
+    justify-content: flex-start;
+    gap: 20%;
+}
+
+.details{
+    position: relative;
+    width: 250px;
+    padding-top: 15px;
+}
+.input-field{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid #999999;
+    padding: 10px 0;
+    background: transparent;
+    font-size: 1em;
+    color: #fff;
+    transition: 0.3s ease;
+}
+.input-label{
+    display: block;
+    position: absolute;
+    top: 0;
+    font-size: 1em;
+    color: #999999;
+    text-transform: uppercase;
+    transition: 0.3s ease;
+}
+.input-field::placeholder{
+    color: transparent;
+}
+.input-field:placeholder-shown ~ .input-label{
+    font-size: 1em;
+    top: 20px;
+}
+.input-field:focus{
+    border-image: linear-gradient(to right, #ef5a03, #d1d357);
+    border-image-slice: 1;
+}
+.input-field:focus ~ .input-label{
+    display: block;
+    position: absolute;
+    top: 0;
+    font-size: 0.8em;
+    color: #ef5a03;
+}
+
+.detail{
+    width: 250px;
+    margin-top: 4%;
+    margin-left: 25%;
+}
+.input-field2{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid #999999;
+    padding: 9px 0;
+    background: transparent;
+    font-size: 1em;
+    color: #fff;
+    transition: 0.3s ease;
+}
+.input-label2{
+    display: block;
+    position: absolute;
+    top: 0;
+    font-size: 1em;
+    color: #999999;
+    text-transform: uppercase;
+    transition: 0.3s ease;
+}
+.input-field2::placeholder{
+    color: transparent;
+}
+.input-field2:placeholder-shown ~ .input-label2{
+    font-size: 1em;
+    top: 120px;
+}
+.input-field2:focus{
+    border-image: linear-gradient(to right, #ef5a03, #d1d357);
+    border-image-slice: 1;
+}
+.input-field2:focus ~ .input-label2{
+    display: block;
+    position: absolute;
+    top: 110px;
+    font-size: 0.8em;
+    color: #ef5a03;
+}
+.message{
+    width: 250px;
+    margin-top: 4%;
+    margin-left: 25%;
+}
+.message-box{
+    margin-top: 3%;
+    width: 500px;
+    height: 90px;
+    background: transparent;
+    border: 2px solid #999999;
+    padding: 10px;
+    color: white;
+    resize: none;
+}
+.message .name{
+    color: white;
+    margin-right: 80%;
+    margin-top: -10%;
+}
+.button .b{
+    font-size: 1.2em;
+    border-radius: 20px;
+    padding: 0px 10px;
+    margin-bottom: 5%;
+    margin-left: 120%;
+    background-color: #d1d357;
+}

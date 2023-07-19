@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+.project-container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.project{
+    color: white;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 1.5%;
+}
+.cards{
+    display: flex;
+}
+.img1{
+    width: 17%;
+    height: 17%;
+    margin-left: 10%;
+    border-radius: 20px;
+    margin-top: 6%;
+    transform: rotate(90deg);
+}
+.circle-red{
+    width: 3%;
+    height: 3%;
+    background: red;
+    margin-left: 40%;
+    margin-top: -17%;
+    border-radius: 50%;
+}
+.circle-yellow{
+    width: 3%;
+    height: 3%;
+    background: yellow;
+    margin-left: 50%;
+    margin-top: -1.5%;
+    border-radius: 50%;
+}
+.img1-2{
+    width: 17%;
+    height: 17%;
+    margin-left: 70%;
+    border-radius: 20px;
+    margin-top: -14%;
+    transform: rotate(-90deg);
+}
+.n1{
+    margin-left: 14%;
+    margin-top: 5%;
+    font-weight: bold;
+}
+.n1-p{
+    font-size: 0.75em;
+    margin-top: 4%;
+    margin-left: 18%;
+    font-weight: bold;
+}
+.n1-read{
+    margin-left: 30%;
+    margin-top: 14%;
+    font-size: 0.7em;
+    padding: 2px 5px;
+    border-radius: 20px;
+    font-size: bold;
+    background-color: wheat;
+}
+.n2{
+    margin-left: 23%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+.n2-p{
+    font-size: 0.75em;
+    margin-top: 4%;
+    margin-left: 17%;
+    font-weight: bold;
+    align-items: center;
+    padding: 2%;
+}
+.img2{
+    width: 25%;
+    height: 21%;
+    margin-left: 73.5%;
+    margin-top: -8.5%;
+}
+.n2-read{
+    margin-left: 30%;
+    margin-top: 6%;
+    font-size: 0.7em;
+    padding: 2px 5px;
+    border-radius: 20px;
+    font-size: bold;
+    background-color: wheat;
+}
+.n3{
+    margin-left: 26%;
+    margin-top: 10%;
+    font-weight: bold;
+}
+.n3-p{
+
+    margin-top: 4%;
+    margin-left: 24%;
+    color: red;
+    font-weight: bold;
+}
+.n3-p2{
+    font-size: 0.75em;
+    margin-top: -1%;
+    margin-left: 17%;
+    font-weight: bold;
+    align-items: center;
+    padding: 2%;
+}
+.img3{
+    width: 24%;
+    height: 21%;
+    margin-left: 73.5%;
+    margin-top: -8%;
+}
+.n3-read{
+    margin-left: 30%;
+    margin-top: 13%;
+    font-size: 0.7em;
+    padding: 2px 5px;
+    border-radius: 20px;
+    font-size: bold;
+    background-color: wheat;
+}
+.n4{
+    margin-left: 26%;
+    margin-top: -9%;
+    font-weight: bold;
+}
+.n4-p{
+    font-size: 0.75em;
+    margin-top: 4%;
+    margin-left: 17%;
+    font-weight: bold;
+    align-items: center;
+    padding: 2%;
+}
+.img4{
+    width: 23%;
+    height: 23%;
+    margin-left: 79%;
+    margin-top: -7%;
+}
+.n4-read{
+    margin-left: 35%;
+    margin-top: 22%;
+    font-size: 0.7em;
+    padding: 2px 5px;
+    border-radius: 20px;
+    font-size: bold;
+    background-color: wheat;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    background: white;
+    margin-left: 3%;
+}
+.certificate{
+    color: white;
+    margin-left: 2%;
+    margin-top: 1.5%;
+}
+.certi{
+    width: 130px;
+    height: 100px;
+    margin-top: 3%;
+    border-radius: 20px;
+    background: white;
+    margin-left: 3%;
+}
+.certis{
+    display: flex;
+}
+.certi-n1{
+    margin-left: 17%;
+    margin-top: 7%;
+    font-size: 0.95em;
+}
+.certi-p{
+    font-size: 0.8em;
+    margin-left: 22%;
+    margin-top: 3%
+}
+.certi-n2{
+    margin-left: 17%;
+    margin-top: 7%;
+    font-size: 0.95em;
+}
+.certi-p2{
+    font-size: 0.8em;
+    margin-left: 25%;
+    margin-top: 3%
+}
+.certi-n3{
+    margin-left: 37%;
+    margin-top: 7%;
+    font-size: 0.95em;
+}
+.certi-p3{
+    font-size: 0.8em;
+    margin-left: 25%;
+    margin-top: 3%
+}
+.certi-n4{
+    margin-left: 10%;
+    margin-top: 7%;
+    font-size: 0.95em;
+}
+.certi-p4{
+    font-size: 0.7em;
+    margin-left: 13%;
+    margin-top: 3%
+}
+.b1{
+    margin-left: 37%;
+    margin-top: 9%;
+    padding: 0px 4px;
+    border-radius: 10px;
+    background-color: wheat;
+}

@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+.containers{
+    width: 100%;
+    position: absolute;
+    top: 17%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.containers .text{
+    font-size: 17px;
+    color: white;
+    margin-left: 25%;
+    margin-right: 5%;
+    margin-top: -4%;
+}
+.containers img{
+    width: 280px;
+    margin-right: 75%;
+    border-radius: 10%;
+    margin-top: 3%;
+}
+.containers .exed{
+    font-size: 20px;
+    font-weight: bold;
+    color: #D34F4F;
+    margin-top: -23%;
+    justify-content: space-around;
+    display: flex;
+    margin-left: 10%;
+}
+
+.containers .line .line1{
+    width: 1px;
+    height: 335px;
+    background-color: silver;
+    margin-left: 29%;
+    margin-top: 1%;
+}
+.containers .line .line2{
+    width: 1px;
+    height: 335px;
+    background-color: silver;
+    margin-left: 74%;
+    margin-top: -24%;
+}
+.circle-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: -25.4%;
+    margin-left: 28.7%;
+}
+.circle{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 100px;
+} 
+.circles-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: -24%;
+    margin-left:73.7%;
+}
+.special{
+    background-color: #1E9BFF;
+}
+.circles{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-bottom: 100px;
+} 
+.edu .edu1 .present{
+    color: #45E468;
+    margin-top: -24.7%;
+    margin-right: 32%
+}
+.edu .edu1 .srm{
+    margin-top: 0.3%;
+    margin-right: 24.5%;
+    color: white;
+}
+.edu .edu1 .cgpa{
+    margin-top: 0.3%;
+    margin-right: 32.5%;
+    color: white;
+}
+.edu .edu2 .present{
+    color: white;
+    margin-top: 2.3%;
+    margin-right: 37.3%
+}
+.edu .edu2 .srm{
+    margin-top:0.3%;
+    margin-right: 16.5%;
+    color: white;
+}
+.edu .edu2 .cgpa{
+    margin-top: 0.3%;
+    margin-right: 30.7%;
+    color: white;
+}
+.edu .edu3 .present{
+    color: white;
+    margin-top: 2.3%;
+    margin-right: 37.3%
+}
+.edu .edu3 .srm{
+    margin-top:0.3%;
+    margin-right: 23.4%;
+    color: white;
+}
+.edu .edu3 .cgpa{
+    margin-top: 0.3%;
+    margin-right: 30.7%;
+    color: white;
+}
+.exp .exp1 .date{
+    color: white;
+    margin-left: 61%;
+    margin-top: -21.9%;
+}
+.exp .exp1 .name{
+    color: white;
+    margin-left: 64.5%;
+    margin-top: 0.3%;
+}
+.exp .exp1 .click1{
+    color: #fff;
+    margin-left: 61%;
+    margin-top: 0.3%;
+}
+.exp .exp2 .date{
+    color: white;
+    margin-left: 61%;
+    margin-top: 2.6%;
+}
+.exp .exp2 .name{
+    color: white;
+    margin-left: 67%;
+    margin-top: 0.4%;
+}
+.exp .exp2 .click1{
+    color: white;
+    margin-left: 68%;
+    margin-top: 0.4%;
+}
+.exp .exp3 .date{
+    color: white;
+    margin-left: 61%;
+    margin-top: 2.6%;
+}
+.exp .exp3 .name{
+    color: white;
+    margin-left: 66%;
+    margin-top: 0.4%;
+}
+.exp .exp3 .click1{
+    color: white;
+    margin-left: 61.5%;
+    margin-top: 0.4%;
+}
